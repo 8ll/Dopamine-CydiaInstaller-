@@ -1,0 +1,33 @@
+Architectures: iphoneos-arm iphoneos-arm64
+Codename: stable
+Components: main
+Date: Wed, 03 May 2023 02:13:48 +0000
+Description: Distribution for stable versions of Zebra
+Label: Zebra
+Origin: Zebra
+Suite: stable
+Version: 1.0
+MD5Sum:
+ f14f9ccfef316131cb2d4f06905bf72f             7897 Packages
+ 163ee16e21e5149c7bef2c9b030f827d             2254 Packages.bz2
+ 83c5bab6200b09a495e335b071e2af0d             1984 Packages.xz
+ 6db3651f377f97a29ea4ed19f5205217             1909 Packages.zst
+ 4cf3597a117a7ffa1cfbda86e8c722c0              224 Release
+SHA1:
+ 9a42aaa5c4137510ff8ccd00f8c3bba2a6872c07             7897 Packages
+ 9b872647ef78163ac82afbbf31cf80994bc2d2c1             2254 Packages.bz2
+ 5db8e117654b3dafda7024249ac29129e1344194             1984 Packages.xz
+ 64532b0aba70dd7e195a48923c6d258cb9d03aba             1909 Packages.zst
+ 94f13270801080768e0691658142d46d2c6baaaa              224 Release
+SHA256:
+ f176ca88964cc398c6055223a539a3f06954adbe6e803c017d195a67b631d6db             7897 Packages
+ 62bff796f8ad440ac3d70acd738c102c0967f90846d3129b922f6d0ba7ec0ca1             2254 Packages.bz2
+ ae8290ced1660393d2520e6dbc34038d5610b0baa890436b9d99093647b1949f             1984 Packages.xz
+ e5baaebce52c2b3c98ef8fc3c5a4c6a853bbf1db11124b8a840686c1a3194381             1909 Packages.zst
+ 1602f7043b3f2ffb8af461ee99bab7884eb778591a18d6ceaa472e72cd76bc7d              224 Release
+SHA512:
+ f8a0695d2875abd30167a230b7b62e5483b6fadaaa64087953ef5db164122d4c68f20adb2a8eb44e62b600448f163643b7980b0ec8e39b16ed7caba81d5dc31d             7897 Packages
+ 27c980ad5b1e3b1ea2443fd50da8c35886f6155d5761535b9035e45bafdd490e3a04bdd797f821e060164c8088a9b4822265cc34ea510ab7611727f4ffd24bae             2254 Packages.bz2
+ fefb21433a04534ef6e6f92865683af930560e9805f56954b13225eb9e6428495be1e373cd7dd070bd18d8184dbffa5dbc6b1c84824417da46d8af593be62220             1984 Packages.xz
+ 2300491de2701a1fb215490d53ae1715c0f1e4dc8427b7b5fc303493fbfae4617ea7f7c7e759b928fd195933278ccf4ee90ab3c4abd305502ff71d756ca12d67             1909 Packages.zst
+ 9cb8fd4e5e5004639c8fb11eab0fd998afe58a12006d3b72a072709187ee8376de34592a39f74afe04bde6bc4b9ae30bf26b8bf37df94702fe18c972327e30fb              224 Release
